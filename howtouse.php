@@ -1,5 +1,5 @@
 <?php
-require_once("SumofAlphabets/SumofAlphabets.php");
+require_once("SumofAlphabets.php");
 
 $obj=new SumofAlphabets();
 
